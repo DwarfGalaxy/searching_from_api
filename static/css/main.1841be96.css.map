@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.1841be96.css","mappings":"AAAA,KACI,wBACJ,CACA,MACI,+CAAmD,CAAnD,gDACJ,CACA,EACI,oBACJ","sources":["index.css"],"sourcesContent":["body{\r\n    background-color: aliceblue;\r\n}\r\n.card{\r\n    filter: drop-shadow(1px 1px 4px rgb(124, 116, 116));\r\n}\r\na{\r\n    text-decoration: none;\r\n}"],"names":[],"sourceRoot":""}
